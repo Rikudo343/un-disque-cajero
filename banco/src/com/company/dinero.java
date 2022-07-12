@@ -1,7 +1,9 @@
 package com.company;
 
-public class  dinero {
+public class  dinero{
     int dienro = 1000;
+
+
 
 public int reta (int retiro) {
    int resultado=0;
@@ -14,4 +16,5 @@ public int suma(int retiro){
     resultado=dienro+retiro;
     return resultado;
 }
+
 }
